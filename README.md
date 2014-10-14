@@ -1,4 +1,4 @@
-LanSchool_Student_Removal
+LanSchool Student Removal
 =========================
 
 Script to remove LanSchool Student from Mac computers
